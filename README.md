@@ -43,3 +43,9 @@ and finally, run the server using the command
 ```text
 node server.js
 ```
+
+You can view a demo of the app in action here:
+
+[part1](https://drive.google.com/file/d/1gJHBTG9vUXsruOXVcQujGfBjPBCVcfzV/view)
+
+[part2](https://drive.google.com/file/d/1JsBqs1tUAU2Q2D4opw4JKd8zQbGfFinO/view)
