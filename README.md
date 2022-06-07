@@ -46,6 +46,6 @@ node server.js
 
 You can view a demo of the app in action here:
 
-[part1](https://drive.google.com/file/d/1gJHBTG9vUXsruOXVcQujGfBjPBCVcfzV/view)
+[part1](https://drive.google.com/file/d/1-aK2UnF06e_TwtZFO1h5eftkJaWNr1Ev/view)
 
-[part2](https://drive.google.com/file/d/1JsBqs1tUAU2Q2D4opw4JKd8zQbGfFinO/view)
+[part2](https://drive.google.com/file/d/1WXS2NUuaRqRg7PrptbhLPX6NYMW2049Y/view)
